@@ -9,3 +9,8 @@ def my_find(collection)
     i = i + 1
   end
 end
+
+
+
+# if yield(collection[i])
+#     return collection[i] 
